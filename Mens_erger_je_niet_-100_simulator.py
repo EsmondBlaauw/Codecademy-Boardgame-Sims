@@ -1,4 +1,4 @@
-
+#Mens_erger_je_niet_-100 Startpositie voor pionnen
 import random
 # Initialize positions for pawns of players A, B, C, D, starting at -100
 pawn_positions = {
